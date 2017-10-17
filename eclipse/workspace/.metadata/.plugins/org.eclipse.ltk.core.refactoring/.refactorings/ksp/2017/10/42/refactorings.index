@@ -1,0 +1,7 @@
+1508170562916	Delete element
+1508171417585	Rename type 'Connection'
+1508187830290	Rename field 'ALTITUDE_INICIAL'
+1508188743171	Rename local variable 'meanAltitude'
+1508194098599	Extract method 'verificaAltitude'
+1508194174134	Rename field 'ALTITUDE_12K'
+1508197749426	Rename local variable 'solidFuel'
